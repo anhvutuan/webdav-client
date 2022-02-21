@@ -64,7 +64,7 @@
     "nested-property": "^4.0.0",
     "path-posix": "^1.0.0",
     "url-join": "^4.0.1",
-    "url-parse": "^1.5.1"
+    "url-parse": "^1.5.9"
   },
   "devDependencies": {
     "@babel/core": "^7.14.2",
